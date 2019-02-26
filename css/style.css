@@ -43,7 +43,7 @@
      text-shadow: 1px 1px 1px #A4A4A4;
      font-family: 'Roboto', sans-serif;
       height: 100%;
-      font-size: 30px;
+      font-size: 100px;
       text-align: center;
 }
 .navbar .nav > li > a {
@@ -58,7 +58,6 @@
      height:100vh;
 }
  @media only screen and (max-width: 1000px) {
-
 
    h2{
      color: orange;
@@ -79,8 +78,7 @@
  @media only screen and (min-width: 768px) {
 .phnum {display: inline-block;font-size: 30px}
    h1{
-     color: #ffffff;
-     text-shadow: 1px 1px 1px #A4A4A4;
+     text-shadow: 1px 1px 1px #565656;
      font-family: 'Roboto', sans-serif;
       height: 100%;
       font-size: 30px;
@@ -90,8 +88,6 @@
  .center{
      text-align: center;
      font-size: 80px;
-     
-     color: #fff;
      text-transform: uppercase;
      line-height: 60px;
 }
@@ -99,7 +95,7 @@
    h2{
      color: orange;
      font-size: 50px;
-     text-shadow: 1px 1px 1px #A4A4A4;
+     text-shadow: 1px 1px 1px #565656;
      font-family: 'Roboto', sans-serif;
 }
 
